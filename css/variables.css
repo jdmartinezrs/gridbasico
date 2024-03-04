@@ -1,0 +1,6 @@
+:root{
+    --color-primary:#ececec;
+    --color-secundary:#fff;
+    --color-shadows: 3px 3px 5px black;
+    --color-font: var(--black)
+}
